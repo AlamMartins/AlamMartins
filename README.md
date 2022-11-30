@@ -1,5 +1,4 @@
 ##
-Olá, Seja bem vindo!
 
 <div align="center">
   <a href="https://github.com/alammartins">
