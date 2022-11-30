@@ -3,8 +3,8 @@ Olá, Seja bem vindo!
 
 <div align="center">
   <a href="https://github.com/alammartins">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=alammartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alammartins&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alammartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alammartins&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -17,6 +17,6 @@ Olá, Seja bem vindo!
   
   ##
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/alammartins/alammartins/blob/output/github-contribution-grid-snake.svg)
  
 </div>
