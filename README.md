@@ -15,11 +15,9 @@
    <img align="center" alt="MONGO" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg">       
    <img align="center" alt="POSTGRESQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg">       
    <img align="center" alt="PRISMA" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg">       
+   <img align="center" alt="DOCKER" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">       
 
-   
-
-
-     
+ 
           
 
  
