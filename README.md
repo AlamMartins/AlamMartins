@@ -16,6 +16,13 @@
    <img align="center" alt="POSTGRESQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg">       
    <img align="center" alt="PRISMA" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original-wordmark.svg">       
    <img align="center" alt="DOCKER" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg">       
+   <img align="center" alt="RABBITMQ" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg">       
+   <img align="center" alt="GRAPHQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain-wordmark.svg">       
+
+ 
+
+   
+ 
 
  
           
